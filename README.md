@@ -6,7 +6,7 @@ I'm a backend developer with **2+ years of experience**, specializing in buildin
 
 ---
 ### 👀 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ankit-raj2110203&color=blue)
 
 
 ### 🔧 Tech Stack:
