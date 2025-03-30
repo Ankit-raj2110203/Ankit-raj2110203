@@ -5,6 +5,9 @@
 I'm a backend developer with **2+ years of experience**, specializing in building scalable and efficient applications using **Spring Boot, SQL, and AWS**.
 
 ---
+### 👀 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 
 ### 🔧 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
