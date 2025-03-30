@@ -39,6 +39,11 @@ I'm a backend developer with **2+ years of experience**, specializing in buildin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/ankit-raj-3b402917a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto :rajankit2110202@gmail.com)
 
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit-raj-3b402917a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: rajankit2110202@gmail.com)
+
+---
 ---
 
 ⭐ **Feel free to check out my repositories and contribute!**
