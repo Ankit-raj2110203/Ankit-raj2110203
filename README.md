@@ -16,13 +16,13 @@ I'm a backend developer with **2+ years of experience**, specializing in buildin
 
 
 ---
-
-### 📌 Projects:
-- **[Project 1](#)** - Short description of what this project does.
-- **[Project 2](#)** - Another project worth mentioning.
-- **[Project 3](#)** - Highlight a project showcasing your skills.
+## 🚀 Latest Projects  
+<!-- PROJECTS START -->
+*Fetching latest projects...*
+<!-- PROJECTS END -->
 
 ---
+
 
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankit-raj2110203&show_icons=true&theme=dark)
